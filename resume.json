@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Pedro Fernández",
+    "label": "Senior software developer",
+    "picture": "",
+    "email": "pedrofernandezm@gmail.com",
+    "phone": "+57 (315) 682-3452",
+    "website": "https://www.linkedin.com/in/pedrofernandezm/",
+    "summary": "Pedro is a Senior Software Engineer with over 7 years of experience in web development. With his ability to lead a team and manage projects, he has being responsible for successfully building and designing web applications. His skills are focused, but not limited, to Ruby on Rails, React JS and Docker.",
+    "location": {
+      "address": "Carrera 51B # 92 - 76 Apto. 1E03",
+      "postalCode": "080020",
+      "city": "Barranquilla",
+      "countryCode": "CO",
+      "region": "Atlántico"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "pedrofernandezm",
+        "url": "https://github.com/pedrofernandezm"
+      },
+      {
+        "network": "Twitter",
+        "username": "pedrito",
+        "url": "https://twitter.com/pedrito"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Fullstack Labs",
+      "position": "Senior software developer",
+      "website": "https://fullstacklabs.co",
+      "startDate": "May 2017",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Koombea SAS",
+      "position": "Project Manager",
+      "website": "https://koombea.com",
+      "startDate": "Jan 2016",
+      "endDate": "May 2017",
+      "summary": "Effectively manage sprint planning, project budget and team resources to ensure the progress of the project and the quality of the delivered product. Facilitate communications between the Product Owner and the team.",
+      "highlights": []
+    },
+    {
+      "company": "Koombea SAS",
+      "position": "Technical Lead",
+      "website": "https://koombea.com",
+      "startDate": "Nov 2013",
+      "endDate": "Jan 2016",
+      "summary": "",
+      "highlights": [
+        "Defined and documented the architecture.",
+        "Communicated and made sure all the team understand the architecture.",
+        "Identified and interacted with the Product Owner to make sure their needs are being met.",
+        "Created a common technical vision, which fulfills product and quality requirements.",
+        "Defined patterns, frameworks and best practices to achieve the architectural vision.",
+        "Designed, built, and maintained efficient, reusable, and reliable Ruby code.",
+        "Ensured the best possible performance, quality, and responsiveness of the applications.",
+        "Identified bottlenecks and bugs, and devise solutions to these problems.",
+        "Maintained code quality, organization, and automatization.",
+        "Ensured the development team is using the architecture correctly.",
+        "Planned for new technology insertion.",
+        "Managed risk identification and risk mitigation strategies associated with the architecture."
+      ]
+    },
+    {
+      "company": "Koombea SAS",
+      "position": "Senior web developer",
+      "website": "https://koombea.com",
+      "startDate": "Sep 2009",
+      "endDate": "Nov 2013",
+      "summary": "",
+      "highlights": [
+        "Designed, built, and maintained efficient, reusable, and reliable Ruby code.",
+        "Ensured the best possible performance, quality, and responsiveness of the applications.",
+        "Identified bottlenecks and bugs, and devise solutions to these problems.",
+        "Maintained code quality, organization, and automatization."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad del Norte",
+      "area": "Computer Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2004",
+      "endDate": "2009",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Medalla de Plata a la Excelencia Académica",
+      "date": "Sep 2009",
+      "awarder": "Universidad del Norte",
+      "summary": "This award is given by the institution to recognize the achievements obtained by the student because of the high academic performance on each undergraduate courses."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Senior",
+      "keywords": [
+        "Ruby on Rails",
+        "Docker",
+        "React JS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
