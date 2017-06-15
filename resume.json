@@ -6,7 +6,7 @@
     "email": "pedrofernandezm@gmail.com",
     "phone": "+57 (315) 682-3452",
     "website": "https://www.linkedin.com/in/pedrofernandezm/",
-    "summary": "Pedro is a Senior Software Engineer with over 7 years of experience in web development. With his ability to lead a team and manage projects, he has being responsible for successfully building and designing web applications. His skills are focused, but not limited, to Ruby on Rails, React JS and Docker.",
+    "summary": "Pedro is a Senior Software Engineer with over 7 years of experience in web development. With his ability to lead a team and manage projects, he has been responsible for successfully building and designing web applications. His skills are focused, but not limited, to Ruby on Rails, React JS and Docker.",
     "location": {
       "address": "Carrera 51B # 92 - 76 Apto. 1E03",
       "postalCode": "080020",
@@ -33,7 +33,7 @@
       "position": "Senior software developer",
       "website": "https://fullstacklabs.co",
       "startDate": "May 2017",
-      "endDate": "Present",
+      "endDate": "",
       "summary": "",
       "highlights": []
     },
